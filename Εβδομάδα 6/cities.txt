@@ -1,0 +1,121 @@
+Aberdeen, Scotland
+Adelaide, Australia
+Algiers, Algeria
+Amsterdam, Netherlands
+Ankara, Turkey
+Asuncion, Paraguay
+Athens, Greece
+Auckland, New Zealand
+Bangkok, Thailand
+Barcelona, Spain
+Beijing, China
+Belem, Brazil
+Belfast, Northern Ireland
+Belgrade, Serbia
+Berlin, Germany
+Birmingham, England
+Bogota, Colombia
+Bombay, India
+Bordeaux, France
+Bremen, Germany
+Brisbane, Australia
+Bristol, England
+Brussels, Belgium
+Bucharest, Romania
+Budapest, Hungary
+Buenos Aires, Argentina
+Cairo, Egypt
+Calcutta, India
+Canton, China
+Cape Town, South Africa
+Caracas, Venezuela
+Cayenne, French Guiana
+Chihuahua, Mexico
+Chongqing, China
+Copenhagen, Denmark
+Cordoba, Argentina
+Dakar, Senegal
+Darwin, Australia
+Djibouti, Djibouti
+Dublin, Ireland
+Durban, South Africa
+Edinburgh, Scotland
+Frankfurt, Germany
+Georgetown, Guyana
+Glasgow, Scotland
+Guatemala City, Guatemala
+Guayaquil, Ecuador
+Hamburg, Germany
+Hammerfest, Norway
+Havana, Cuba
+Helsinki, Finland
+Hobart, Tasmania
+Hong Kong, China
+Iquique, Chile
+Irkutsk, Russia
+Jakarta, Indonesia
+Johannesburg, South Africa
+Kingston, Jamaica
+Kinshasa, Congo
+Kuala Lumpur, Malaysia
+La Paz, Bolivia
+Leeds, England
+Lima, Peru
+Lisbon, Portugal
+Liverpool, England
+London, England
+Lyons, France
+Madrid, Spain
+Manchester, England
+Manila, Philippines
+Marseilles, France
+Mazatlan, Mexico
+Mecca, Saudi Arabia
+Melbourne, Australia
+Mexico City, Mexico
+Milan, Italy
+Montevideo, Uruguay;
+Moscow, Russia
+Munich, Germany
+Nagasaki, Japan
+Nagoya, Japan
+Nairobi, Kenya
+Nanjing (Nanking), China
+Naples, Italy
+New Delhi, India
+Newcastle-on-Tyne, England
+Odessa, Ukraine
+Osaka, Japan
+Oslo, Norway
+Panama City, Panama
+Paramaribo, Suriname
+Paris, France
+Perth, Australia
+Plymouth, England
+Port Moresby, Papua New Guinea
+Prague, Czech Republic
+Rangoon, Myanmar
+Reykjavik, Iceland
+Rio de Janeiro, Brazil
+Rome, Italy
+Salvador, Brazil
+Santiago, Chile
+St. Petersburg, Russia
+Sao Paulo, Brazil
+Shanghai, China
+Singapore, Singapore
+Sofia, Bulgaria
+Stockholm, Sweden
+Sydney, Australia
+Tananarive, Madagascar
+Teheran, Iran
+Thessaloniki, Greece
+Tokyo, Japan
+Tripoli, Libya
+Venice, Italy
+Veracruz, Mexico
+Vienna, Austria
+Vladivostok, Russia
+Warsaw, Poland
+Wellington, New Zealand
+Zurich, Switzerland
